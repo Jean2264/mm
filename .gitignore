@@ -1,6 +1,4 @@
-# Archivos de compilación
 bin/
 obj/
-
-# Configuración temporal de Visual Studio
 .vs/
+*.user
